@@ -32,12 +32,4 @@
     <option name="FILESTATUS_changelistConflict" value="fc9867" />
     <option name="FILESTATUS_modifiedOutside" value="c792ea" />
   </colors>
-  <attributes>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="99ccbb" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
