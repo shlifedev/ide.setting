@@ -3,4 +3,14 @@
     <keyboard-shortcut first-keystroke="alt back_slash" />
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="f" />
+  </action>
+  <action id="RiderCoveringTestsPopupCoverAllTestsAction" />
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
 </keymap>
