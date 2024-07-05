@@ -3,10 +3,6 @@
     <keyboard-shortcut first-keystroke="alt back_slash" />
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="a" />
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -15,6 +11,10 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="f" />
   </action>
   <action id="RiderCoveringTestsPopupCoverAllTestsAction" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>

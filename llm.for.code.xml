@@ -1,8 +1,0 @@
-<application>
-  <component name="LLMSettings">
-    <option name="inline_completion_fallback" value="true" />
-    <option name="commit_generate_summary" value="true" />
-    <option name="inline_completion" value="false" />
-    <option name="inline_completion_space_trigger" value="true" />
-  </component>
-</application>
