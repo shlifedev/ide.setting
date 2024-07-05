@@ -1,8 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="솔루션" />
-    <option name="defaultScopeName" value="솔루션" />
-    <option name="SEARCH_SCOPE" value="솔루션" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>

@@ -2,12 +2,6 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
-      <component name="WindowStateProjectService">
-        <state x="450" y="159" key="Rider.NewProjectDialog.Size" timestamp="1714054744459">
-          <screen x="0" y="44" width="1800" height="1040" />
-        </state>
-        <state x="450" y="159" key="Rider.NewProjectDialog.Size/0.44.1800.1040" timestamp="1714054744459" />
-      </component>
     </defaultProject>
   </component>
 </application>
