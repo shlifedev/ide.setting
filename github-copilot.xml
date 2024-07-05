@@ -6,6 +6,6 @@
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
-    <option name="inlayTextColor" value="#00ff0c" />
+    <option name="inlayTextColor" value="#3fc8b6" />
   </component>
 </application>
