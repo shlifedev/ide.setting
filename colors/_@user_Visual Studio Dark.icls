@@ -8,7 +8,7 @@
     <property name="pluginId">Rider UI Theme Pack</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="21" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
