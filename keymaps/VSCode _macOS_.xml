@@ -18,7 +18,7 @@
   <action id="RiderCoveringTestsPopupCoverAllTestsAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl f5" />
-    <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="meta f19" />
   </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
