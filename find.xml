@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="현재 파일" />
+    <option name="defaultScopeName" value="현재 파일" />
+    <option name="SEARCH_SCOPE" value="현재 파일" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
