@@ -9,9 +9,16 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CodeCompletion" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="FileChooser.GotoHome" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="NextWindow" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="f" />
   </action>
@@ -20,6 +27,8 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="meta f19" />
   </action>
+  <action id="SelectAllOccurrences" />
+  <action id="TableResult.SelectAllOccurrences" />
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
