@@ -1,4 +1,4 @@
-<keymap version="1" name="먀옹맥북세팅" parent="VSCode OSX">
+<keymap version="1" name="VSCode (macOS) 복사" parent="VSCode OSX">
   <action id="AIAssistant.Editor.CompleteCodeWithAI">
     <keyboard-shortcut first-keystroke="alt back_slash" />
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
